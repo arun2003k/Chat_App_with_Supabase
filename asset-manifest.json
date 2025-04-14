@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Chat_App_with_Supabase/static/js/main.c7e654bb.chunk.js",
+    "main.js.map": "/Chat_App_with_Supabase/static/js/main.c7e654bb.chunk.js.map",
+    "runtime-main.js": "/Chat_App_with_Supabase/static/js/runtime-main.ebf05123.js",
+    "runtime-main.js.map": "/Chat_App_with_Supabase/static/js/runtime-main.ebf05123.js.map",
+    "static/js/2.2eb07254.chunk.js": "/Chat_App_with_Supabase/static/js/2.2eb07254.chunk.js",
+    "static/js/2.2eb07254.chunk.js.map": "/Chat_App_with_Supabase/static/js/2.2eb07254.chunk.js.map",
+    "static/js/3.ae9803bd.chunk.js": "/Chat_App_with_Supabase/static/js/3.ae9803bd.chunk.js",
+    "static/js/3.ae9803bd.chunk.js.map": "/Chat_App_with_Supabase/static/js/3.ae9803bd.chunk.js.map",
+    "index.html": "/Chat_App_with_Supabase/index.html",
+    "precache-manifest.391c2b96c0f2d54399a9b02cd053a3e8.js": "/Chat_App_with_Supabase/precache-manifest.391c2b96c0f2d54399a9b02cd053a3e8.js",
+    "service-worker.js": "/Chat_App_with_Supabase/service-worker.js",
+    "static/js/2.2eb07254.chunk.js.LICENSE.txt": "/Chat_App_with_Supabase/static/js/2.2eb07254.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebf05123.js",
+    "static/js/2.2eb07254.chunk.js",
+    "static/js/main.c7e654bb.chunk.js"
+  ]
+}
