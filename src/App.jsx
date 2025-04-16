@@ -25,13 +25,17 @@ function App() {
   console.log(session);
 
   //sign in
+ const redirectTo = process.env.NODE_ENV === 'production'
+    ? 'https://arun2003k.github.io/Chat_App_with_Supabase'
+    : 'http://localhost:3000';
   const signIn = async()=>{
     supabase.auth.signInWithOAuth({
       provider:"google",
-       options: {
-        redirectTo: 'http://localhost:3000/'
+      options: {
+        options: { redirectTo }
       }
     });
+    
   };
 
   //sign out
